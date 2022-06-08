@@ -38,7 +38,7 @@ import java.util.Map;
 import java.util.ResourceBundle;
 import java.util.logging.Logger;
 
-import javax.xml.bind.JAXB;
+import jakarta.xml.bind.JAXB;
 import javax.xml.namespace.QName;
 import javax.xml.transform.Transformer;
 import javax.xml.transform.dom.DOMResult;

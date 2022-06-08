@@ -907,11 +907,11 @@ Generiere eine Möglichkeit, den Wert eines Propertys über die Metadaten zu än
 ##### -visitMethodName=`<string>` (visit)
 Name der Methode, mit der ein Visitor durch das Objekt geschickt werden kann.
 
-[6]: #constrained-properties
-[4]: #clone
-[5]: #copy
-[3]: #group-contract
-[2]: #immutable
-[8]: #modifier
-[1]: #fluent-builder
-[7]: #meta
+[1]: #constrained-properties
+[2]: #clone
+[3]: #copy
+[4]: #group-contract
+[5]: #immutable
+[6]: #modifier
+[7]: #fluent-builder
+[8]: #meta
